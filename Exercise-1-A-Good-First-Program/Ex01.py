@@ -5,3 +5,8 @@ print "This is fun."
 print 'Yay! Printing.'
 print "I'd much rather you 'not'."
 print 'I "said" do not touch this.'
+
+print "Hello World"
+print "This is TJ's First Script"
+print "Let's typing"
+print "Then print it out!"
