@@ -1,3 +1,9 @@
+print "_____________________________________________"
+
+print " Exercise 3 "
+
+print "_____________________________________________"
+
 #print "I will now count my chickens:"
 
 #print "Hens", 25 + 30 / 6

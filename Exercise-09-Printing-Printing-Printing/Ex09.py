@@ -1,3 +1,9 @@
+print "_____________________________________________"
+
+print " Exercise 9 Printing Printing Printing "
+
+print "_____________________________________________"
+
 # Here's some new strange stuff, remember type it exactly.
 
 days = "Mon Tue Wed Thu Fri Sat Sun"

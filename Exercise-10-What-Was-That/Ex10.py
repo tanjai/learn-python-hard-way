@@ -1,3 +1,9 @@
+print "_____________________________________________"
+
+print "Exercise 10 What was that"
+
+print "_____________________________________________"
+
 tabby_cat = "\tI'm tabbed in."
 persian_cat = "I'm split\non a line."
 backslash_cat = "I'm \\ a \\ cat."

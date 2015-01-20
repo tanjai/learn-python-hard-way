@@ -1,3 +1,9 @@
+print "_____________________________________________"
+
+print " Exercise 2 "
+
+print "_____________________________________________"
+
 # A comment, this is so you can read your program later.
 # Anything after the # is ignored by python.
 

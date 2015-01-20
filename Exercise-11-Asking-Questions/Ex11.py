@@ -1,4 +1,8 @@
+print "_____________________________________________"
+
 print "Exercise 11 : Asking Question"
+
+print "_____________________________________________"
 
 print "How old are you?",
 age = raw_input()

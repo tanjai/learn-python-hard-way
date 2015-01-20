@@ -1,3 +1,10 @@
+print "_____________________________________________"
+
+print " Exercise 1 "
+
+print "_____________________________________________"
+
+
 print "Hello World!"
 print "Hello Again"
 print "I like typing this."

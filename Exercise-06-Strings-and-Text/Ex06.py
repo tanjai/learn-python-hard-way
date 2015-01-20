@@ -1,3 +1,8 @@
+print "_____________________________________________"
+
+print " Exercise 6 "
+
+print "_____________________________________________"
 
 x = "There are %d types of people." % 10
 binary = "binary"
